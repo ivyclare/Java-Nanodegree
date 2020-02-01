@@ -1,6 +1,8 @@
 # Chat Room
 Complete the chat room application implementation using WebSocket.
 
+In this project, I built a web-based chat room application using Spring Boot and websocket components. Here, I implemented the message model and controller and used Thymeleaf to create web pages to build the user login flow and chat room interface.
+
 ## Background
 WebSocket is a communication protocol that makes it possible to establish a two-way communication channel between a
 server and a client.
